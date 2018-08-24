@@ -1,5 +1,22 @@
 body {
 	background-color: black;
-	background-image: url('../img/background-image');
-	
+}
+
+.img1 {
+	display: block;
+	margin: 0 auto;
+}
+.logo { 
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: 'Krona One', sans-serif;
+	color: white;
+}
+
+.t1 {
+	font-family: 'Mogra', cursive;
+	color: white;
 }
